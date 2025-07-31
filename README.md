@@ -28,7 +28,7 @@ It covers **data exploration, preprocessing, model building, and evaluation** �
 
 ## 📂 Project Structure
 ```
-├── 08 Project 1: Predicting Tips Using Linear Regression.ipynb  # Main notebook
+├── src/main.ipynb  # Main notebook
 ├── README.md                                                    # Project description
 └── images/                                                      # Visualization images (if any)
 ```
