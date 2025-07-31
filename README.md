@@ -3,6 +3,9 @@
 This project demonstrates how to apply **Linear Regression** to predict restaurant tips using the popular **Seaborn `tips` dataset**.  
 It covers **data exploration, preprocessing, model building, and evaluation** — ideal for showcasing fundamental **machine learning and data analysis** skills.
 
+> **Note:** This is a **learning project** completed as part of the **Pytopia course**.  
+> All credits for the learning material and guidance go to **Pytopia**.
+
 ---
 
 ## 📌 Project Overview
